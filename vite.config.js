@@ -10,7 +10,7 @@ import react from '@vitejs/plugin-react'
  *
  * No trailing slash.
  */
-const SITE_URL = 'https://safyan-portfolio-one.vercel.app'
+const SITE_URL = 'https://safyanshaikhin.vercel.app'
 
 const ROBOTS = `User-agent: *
 Allow: /
